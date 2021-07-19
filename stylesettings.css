@@ -1,0 +1,12 @@
+.container{display:grid;justify-content:center}
+a{text-decoration:none;color:#000}
+::-webkit-scrollbar
+{background:none;width:10px}
+::-webkit-scrollbar-thumb
+{background:#d2d2d2;
+    border-radius:15px}
+    ::selection
+    {background:#0d6efd}
+    ::-webkit-scrollbar
+    :horizontal{height:0}app-channel,app-main{display:grid;justify-content:center;z-index:999}app-menu{position:fixed;z-index:99999}form{padding:25px;border-radius:10px;margin-top:100px;border:1px solid #ced4da;overflow:hidden;width:375px}.menu{background:#fff;border-bottom:3px solid #ddd;display:flex;justify-content:space-between}.logo{padding:10px;margin-left:50px}.btnBox{text-align-last:center}.btn-group,.btn-group-vertical{width:100%;margin-bottom:1rem}.form-label{font-size:22px}.navbar-dark .navbar-nav .nav-link.active,.navbar-dark .navbar-nav .show>.nav-link{font-weight:700}.error{color:#dc3545}.cpovikMode{width:33px;height:33px;padding:0;font-weight:700;background:none;color:#0d6efd;float:right}
+img{border-radius:5px}.imgBox{text-align:center;margin:.5rem 0}.myBtn{width:400px;border-radius:10px!important}@media(max-width:400px){.myBtn{width:350px}}
